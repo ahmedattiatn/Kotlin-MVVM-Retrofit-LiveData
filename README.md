@@ -1,5 +1,4 @@
 # Kotlin-MVVM-Retrofit-LiveData
-![](Screenshot_1.png)!
 
 ![](MVVM.png)
 
